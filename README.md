@@ -29,7 +29,7 @@ A full-stack web application that enables employers to post jobs and applicants 
 ## 🏗️ Project Structure
 
 ```
-job-bidding-platform/
+career-exchange-platform/
 ├── client/                 # Frontend React application
 │   ├── src/
 │   │   ├── components/    # Reusable UI components
@@ -57,7 +57,7 @@ job-bidding-platform/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/job-bidding-platform.git
+   git clone https://github.com/Yashman-Singh/career-exchange-platform.git
    cd job-bidding-platform
    ```
 
