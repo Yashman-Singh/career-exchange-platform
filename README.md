@@ -126,7 +126,6 @@ VITE_API_URL=http://localhost:3000/api
 
 The application is deployed on Render:
 - Frontend: [https://careerexchange.onrender.com](https://careerexchange.onrender.com)
-- Backend: [https://careerexchange.onrender.com/api](https://careerexchange.onrender.com/api)
 
 ## 📝 License
 
